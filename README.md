@@ -1,7 +1,7 @@
 
 # Decoding Staircase Histories: Bridging Stair Wear Simulation Models and CNN Predictions
 
-[surface_wear_visualization.html](surface_wear_visualization.html)
+[Click Here!](https://github.com/iceray00/Stair_wear_simulation_model/blob/main/surface_wear_visualization.html)
 
 ## Dependencies
 
