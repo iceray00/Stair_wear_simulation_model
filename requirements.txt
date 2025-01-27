@@ -1,0 +1,8 @@
+numpy
+matplotlib
+scipy
+plotly
+mayavi
+configobj
+wxPython
+tqdm
